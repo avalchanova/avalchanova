@@ -47,13 +47,15 @@ I am a soon-to-be developer :supervillain_woman: from Bulgaria.
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://code.visualstudio.com/assets/branding/app-icon.png" title="VSC" **alt="VSC" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" title="ExpressJS"  alt="ExpressJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" title="MongooseJS" **alt="MongooseJS" width="40" height="40"/>
 </div>
+
 
 ---
 
