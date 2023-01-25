@@ -28,7 +28,7 @@ I am a soon-to-be developer :supervillain_woman: from Bulgaria.
 
 - :desktop_computer: I am studying JavaScript at SoftUni.
 
-- :seedling: Exploring what JS Back-end can offer. 
+- :seedling: Exploring what Node.js can offer. 
 
 - :zap: On the other hand, I study English Lit :heart_on_fire: so you can imagine how deep my love for book runs. 
 
