@@ -30,7 +30,7 @@ I am a soon-to-be developer :supervillain_woman: from Bulgaria.
 
 - :seedling: Exploring what Node.js can offer. 
 
-- :zap: On the other hand, I study English Lit :heart_on_fire: so you can imagine how deep my love for book runs. 
+- :zap: On the other hand, I study English Lit :heart_on_fire: :arrow_right: book nerd alert
 
 - :mountain_snow: I hardly have time to spare because am always up to something. 
 
