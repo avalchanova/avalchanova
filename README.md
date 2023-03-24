@@ -36,8 +36,7 @@ I am a soon-to-be developer :supervillain_woman: from Bulgaria.
 
 - :world_map: Hobbies include: all kinds of sports, travelling, cooking and eating of course, and watching Ivaylo Papazov's courses :ribbon:
 
-- :service_dog: Sorry cat-lovers, I am team Dogs :sunglasses:
-
+- :black_cat: Slowly being dragged to the cat side :paw_prints:
 - :mailbox: Reach me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandra-valchanova-83a86a254/)
 
 - :email: Contact me via email: a.valchanova@icloud.com
