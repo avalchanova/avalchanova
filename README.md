@@ -53,7 +53,7 @@ I am a soon-to-be developer :supervillain_woman: from Bulgaria.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.jpg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" title="MongooseJS" **alt="MongooseJS" width="40" height="40"/>
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" title="React" **alt="React" width="40" height="40"/>
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-1.png" title="React" **alt="React" width="40" height="40"/>
 </div>
 
 ---
