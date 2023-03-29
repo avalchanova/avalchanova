@@ -61,5 +61,6 @@ I am a soon-to-be developer :supervillain_woman: from Bulgaria.
 ### :fire: My Stats :
 
 <!--- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
 
 ---
