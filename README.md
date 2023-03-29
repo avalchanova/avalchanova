@@ -28,7 +28,7 @@ I am a soon-to-be developer :supervillain_woman: from Bulgaria.
 
 - :desktop_computer: I am studying JavaScript at SoftUni.
 
-- :seedling: Exploring what Node.js can offer. 
+- :seedling: Exploring what React can offer. 
 
 - :zap: On the other hand, I study English Lit :heart_on_fire: :arrow_right: book nerd alert
 
