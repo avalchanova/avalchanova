@@ -1,15 +1,13 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/aleksandra-valchanova-83a86a254/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
+</div> -->
 
-<img src="https://komarev.com/ghpvc/?username=avalchanova&style=flat-square&color=blue" alt=""/>
-
-<h1>
+<h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -40,6 +38,7 @@ I am a soon-to-be developer :supervillain_woman: from Bulgaria.
 - :mailbox: Reach me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandra-valchanova-83a86a254/)
 
 - :email: Contact me via email: a.valchanova@icloud.com
+- <img src="https://komarev.com/ghpvc/?username=avalchanova&style=flat-square&color=blue" alt=""/>
 
 ---
 
