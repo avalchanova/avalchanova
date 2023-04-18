@@ -24,9 +24,14 @@
 
 I am a soon-to-be developer :supervillain_woman: from Bulgaria.
 
-- :desktop_computer: I am studying JavaScript at SoftUni.
+- :desktop_computer: I am studying JavaScript at SoftUni:
+  * Entry Module: Programming Basics with JS
+  * JS Fundamentals Module
+  * JS Advanced + JS Application
+  * JS Web: JS Back-end + ReactJS 
+  * Front-end: HTML+CSS and Angular  :arrow_right:  starting May 11 
 
-- :seedling: Exploring what React can offer. 
+- :seedling: Currently working on my React project
 
 - :zap: On the other hand, I study English Lit :heart_on_fire: :arrow_right: book nerd alert
 
@@ -34,7 +39,7 @@ I am a soon-to-be developer :supervillain_woman: from Bulgaria.
 
 - :world_map: Hobbies include: all kinds of sports, travelling, cooking and eating of course, and watching Ivaylo Papazov's courses :ribbon:
 
-- :black_cat: Slowly being dragged to the cat side :paw_prints:
+<!-- - :black_cat: Slowly being dragged to the cat side :paw_prints: -->
 - :mailbox: Reach me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandra-valchanova-83a86a254/)
 
 - :email: Contact me via email: a.valchanova@icloud.com
