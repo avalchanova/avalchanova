@@ -39,6 +39,8 @@ I am a soon-to-be developer :supervillain_woman: from Bulgaria.
 
 - :world_map: Hobbies include: all kinds of sports, travelling, cooking and eating of course, and watching Ivaylo Papazov's courses :ribbon:
 
+- :waxing_crescent_moon: I have a strong set of core values 
+
 <!-- - :black_cat: Slowly being dragged to the cat side :paw_prints: -->
 - :mailbox: Reach me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandra-valchanova-83a86a254/)
 
