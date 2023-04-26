@@ -33,7 +33,7 @@ Aspiring developer :supervillain_woman: from Bulgaria.
 
 - :seedling: Currently working on my React Weather Forecast App
 
-- :zap: On the other hand, I study English Lit :heart_on_fire: :arrow_right: book nerd alert
+- :zap: On the other hand, I study English Lit at SNHU :heart_on_fire: :arrow_right: book nerd alert
 
 - :mountain_snow: I hardly have time to spare because am always up to something. 
 
