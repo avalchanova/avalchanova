@@ -22,7 +22,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a soon-to-be developer :supervillain_woman: from Bulgaria.
+Aspiring developer :supervillain_woman: from Bulgaria.
 
 - :desktop_computer: I am studying JavaScript at SoftUni:
   * Entry Module: Programming Basics with JS
@@ -31,7 +31,7 @@ I am a soon-to-be developer :supervillain_woman: from Bulgaria.
   * JS Web: JS Back-end + ReactJS 
   * Front-end: HTML+CSS and Angular  :arrow_right:  starting May 11 
 
-- :seedling: Currently working on my React project
+- :seedling: Currently working on my React Weather Forecast App
 
 - :zap: On the other hand, I study English Lit :heart_on_fire: :arrow_right: book nerd alert
 
