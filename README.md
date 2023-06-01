@@ -29,9 +29,9 @@ Aspiring developer :supervillain_woman: from Bulgaria.
   * JS Fundamentals Module
   * JS Advanced + JS Application
   * JS Web: JS Back-end + ReactJS 
-  * Front-end: HTML+CSS and Angular  :arrow_right:  starting May 11 
+  * Front-end: HTML+CSS and Angular  :arrow_right: :runner: - active now
 
-- :seedling: Currently working on my React Weather Forecast App
+- :seedling: Currently working on improving my HTML and CSS skills
 
 - :zap: On the other hand, I study English Lit at SNHU :heart_on_fire: :arrow_right: book nerd alert
 
