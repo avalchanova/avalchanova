@@ -18,7 +18,8 @@
 </div>
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avalchanova&theme=radical&hide_border=true&border_radius=3.4)](https://git.io/streak-stats)                           
+[![GitHub Streak](https://streak-stats.demolab.com?user=avalchanova&theme=radical&hide_border=true&border_radius=20&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 <img align-self="right" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avalchanova&theme=radical&layout=compact" />
 
 ###
