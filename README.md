@@ -69,7 +69,7 @@ Aspiring developer :supervillain_woman: from Bulgaria.
  <img src="https://www.newthinktank.com/wp-content/uploads/2015/10/Handlebars-Tutorial.png" title="React" **alt="React" width="50" height="50"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" title="Bootstrap" **alt="Bootstrap" width="50" height="50"/>
    <img src="https://react-bootstrap.github.io/img/logo.svg" title="ReactBootstrap" **alt="ReactBootstrap" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Angular" **alt="Angular" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" title="Typescript" **alt="Typescript" width="50" height="50"/>
  
 </div>
 
