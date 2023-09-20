@@ -43,7 +43,7 @@ Aspiring developer :supervillain_woman: from Bulgaria.
 
 - :mountain_snow: Always up to something
 
-- :world_map: Hobbies include: all kinds of sports, travelling, cooking and eating of course, and watching Ivaylo Papazov's courses :ribbon:
+- :world_map: Hobbies include: all kinds of sports, travelling, cooking and eating of course, React and TypeScript :ribbon:
 
 - :waxing_crescent_moon: I have a strong set of core values 
 
