@@ -36,6 +36,7 @@ Aspiring developer :supervillain_woman: from Bulgaria.
   * JS Advanced + JS Application
   * JS Web: JS Back-end + ReactJS 
   * Front-end: HTML+CSS and Angular  :arrow_right: 🧗‍♀️ - active now
+  * Udemy: TypeScript  :arrow_right: 🧗‍♀️ - active now
 
 - :seedling: Currently working on improving my HTML and CSS skills
 
