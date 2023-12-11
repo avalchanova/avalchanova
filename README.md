@@ -48,7 +48,6 @@ Aspiring developer :supervillain_woman: from Bulgaria.
 
 - Hobbies include: all kinds of sports, travelling, cooking and eating of course, React and TypeScript :ribbon:
 
-
 <!-- - :black_cat: Slowly being dragged to the cat side :paw_prints: -->
 - Reach me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandra-valchanova-83a86a254/)
 
