@@ -26,11 +26,11 @@
 
 --- 
 
-:woman_technologist: About Me :
+About Me:
 
 Aspiring developer :supervillain_woman: from Bulgaria.
 
-- :computer: I am studying JavaScript at SoftUni:
+- I am studying JavaScript at SoftUni:
   * Entry Module: Programming Basics with JS
   * JS Fundamentals Module
   * JS Advanced + JS Application
@@ -38,7 +38,7 @@ Aspiring developer :supervillain_woman: from Bulgaria.
   * Front-end: HTML+CSS and Angular  :arrow_right: 🧗‍♀️ - active now
   * Udemy: TypeScript  :arrow_right: 🧗‍♀️ - active now
 
-- :seedling: Currently working on improving my HTML and CSS skills
+- :seedling: Currently working on improving my React skills
 
 - :zap: Book nerd alert
 
