@@ -44,14 +44,15 @@ Aspiring developer :supervillain_woman: from Bulgaria.
 
 - :mountain_snow: Always up to something
 
-- :world_map: Hobbies include: all kinds of sports, travelling, cooking and eating of course, React and TypeScript :ribbon:
+- :waxing_crescent_moon: I have a strong set of core values
 
-- :waxing_crescent_moon: I have a strong set of core values 
+- Hobbies include: all kinds of sports, travelling, cooking and eating of course, React and TypeScript :ribbon:
+
 
 <!-- - :black_cat: Slowly being dragged to the cat side :paw_prints: -->
-- :mailbox: Reach me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandra-valchanova-83a86a254/)
+- Reach me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandra-valchanova-83a86a254/)
 
-- :email: Contact me via email: a.valchanova@icloud.com
+- Contact me via email: a.valchanova@icloud.com
 - <img src="https://komarev.com/ghpvc/?username=avalchanova&style=flat-square&color=blue" alt=""/>
 
 ---
