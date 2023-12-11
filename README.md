@@ -30,7 +30,7 @@
 
 Aspiring developer :supervillain_woman: from Bulgaria.
 
-- :desktop_computer: I am studying JavaScript at SoftUni:
+- :desktop_computer : I am studying JavaScript at SoftUni:
   * Entry Module: Programming Basics with JS
   * JS Fundamentals Module
   * JS Advanced + JS Application
